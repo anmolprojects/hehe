@@ -43,11 +43,11 @@ function yesButtonListener(){
 
 function noButtonListener(){
     if (count < 3) {
-        gifMain.src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZybzJyN3I2czUyanNsbWJ2cmwzOGJwNnVraWd1ZDdrbjJjc2N2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K7KrJATbIbISKsT2Mi/giphy.gif";
+        gifMain.src ="2.gif";
         questionMain.innerHTML = "You don't like me?";
     }
     else if (count >= 3 && count < 6){
-        gifMain.src ="https://media.giphy.com/media/QuCslOrnS649PSCnn7/giphy.gif";
+        gifMain.src ="3.gif";
         questionMain.innerHTML = "Stop playing with me! Do you like me or not?!";
     }
     else {
