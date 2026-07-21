@@ -51,7 +51,7 @@ function noButtonListener(){
         questionMain.innerHTML = "Stop playing with me! Do you like me or not?!";
     }
     else {
-    gifMain.src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVhNnN2eHU4Y2wyN3V2ZDVocHI2cjk4MW1wbXAwYjRpcXEwY29yNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y9dlpj7YxujhO2qcdW/giphy.gif";
+    gifMain.src = "5.gif";
     questionMain.innerHTML = "JUST ANSWER IT! DO YOU LIKE ME?!";
 
     // Remove the No button
