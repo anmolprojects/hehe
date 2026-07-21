@@ -21,7 +21,7 @@ startButton.addEventListener("click", () => {
         "<link rel='stylesheet' href='styleMain.css'/>"
 
         document.body.innerHTML = "<div class='wrapper'><h2 class='question'>Hello Ms Cutie ❤️ ! Will you date me 💐 ?</h2>"+
-        "<img class='gif' alt='gif' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhnbG05ZnZsNW92aXJkYmZvaGlna2UzYXpudWhuMWQwZWFha3N4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A0Zt7yuDULiy4ofmVD/giphy.gif'/>"+
+        "<img class='gif' alt='gif' src='1.gif'/>"+
         "<div class='btn-group'><button class='yes-btn'>Yes</button>"+
         "<button class='no-btn'>No</button></div></div>"
 
